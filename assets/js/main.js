@@ -152,3 +152,6 @@ while (arrayRandomNumbers.length < maxNumber) {
   console.log(userArrayComparative);
   }, (timeSec * 1000));
 });
+
+
+// versione alert grafici libreiria https://github.com/sweetalert2/sweetalert2 - da provare
